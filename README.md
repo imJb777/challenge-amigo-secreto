@@ -1,6 +1,7 @@
 🎁 challenge amigo secreto!
 
-Seja bem-vindo ao Sorteador de Amigos! 🥳🎉 Um projeto simples e divertido para adicionar amigos e sortear um nome aleatório. Ideal para brincadeiras, sorteios ou até mesmo para definir quem vai lavar a louça depois do churrasco! 😆
+Seja bem-vindo ao Sorteador de Amigos ele tem a mesma ideia de um amigo oculto que é um jogo muito tradicionais em festas de fim de ano!
+🥳🎉 Um projeto simples e divertido para adicionar amigos e sortear um nome aleatório. Ideal para brincadeiras, sorteios ou até mesmo para definir quem vai lavar a louça depois do churrasco! 
 
 🚀 Funcionalidades
 
