@@ -19,3 +19,6 @@ CSS 🎨
 JavaScript ⚡
 
 🎉 Agora é só se divertir! Quem será o próximo sorteado? 🍀
+
+Para uma melhor visualização:
+https://challenge-amigo-secreto-amber.vercel.app/
